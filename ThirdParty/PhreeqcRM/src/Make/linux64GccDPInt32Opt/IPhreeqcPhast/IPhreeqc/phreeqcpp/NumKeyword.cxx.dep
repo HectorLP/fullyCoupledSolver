@@ -1,0 +1,11 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.cxx.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.cxx \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Parser.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+lnInclude/Utils.h \
+lnInclude/phrqtype.h \
+
+

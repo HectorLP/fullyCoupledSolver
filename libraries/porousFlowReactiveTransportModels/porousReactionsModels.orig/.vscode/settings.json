@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "phreeqcRMModels.H": "cpp",
+        "phreeqcRMModels.C": "cpp"
+    }
+}

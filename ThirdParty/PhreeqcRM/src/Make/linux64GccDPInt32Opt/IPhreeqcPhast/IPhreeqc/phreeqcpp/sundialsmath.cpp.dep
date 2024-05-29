@@ -1,0 +1,7 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialsmath.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialsmath.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialsmath.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialstypes.h \
+lnInclude/phrqtype.h \
+
+

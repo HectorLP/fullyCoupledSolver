@@ -1,0 +1,9 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/nvector_serial.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/nvector_serial.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/nvector_serial.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/nvector.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialstypes.h \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialsmath.h \
+
+

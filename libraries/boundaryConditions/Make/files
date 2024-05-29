@@ -1,0 +1,4 @@
+reactingWall/reactingWallFvPatchScalarField.C
+reactingSurface/reactingSurfaceFvPatchScalarField.C
+
+LIB = $(HPFOAM_LIBBIN)/libboundaryConditions

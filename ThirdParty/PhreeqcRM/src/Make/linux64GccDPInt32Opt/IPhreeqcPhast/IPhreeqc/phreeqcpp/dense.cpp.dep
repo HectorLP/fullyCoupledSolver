@@ -1,0 +1,9 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/dense.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/dense.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialstypes.h \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialsmath.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/dense.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/smalldense.h \
+
+

@@ -1,0 +1,3 @@
+SOURCE = \
+reactingWall/reactingWallFvPatchScalarField.C \
+reactingSurface/reactingSurfaceFvPatchScalarField.C 

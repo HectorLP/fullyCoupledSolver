@@ -1,0 +1,3 @@
+hyporheicZoneKTOMRTransportFoam.C  
+
+EXE = $(HPFOAM_APPBIN)/hyporheicZoneKTOMRTransportFoam

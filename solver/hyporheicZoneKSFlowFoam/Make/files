@@ -1,0 +1,3 @@
+hyporheicZoneKSFlowFoam.C  
+
+EXE = $(HPFOAM_APPBIN)/hyporheicZoneKSFlowFoam

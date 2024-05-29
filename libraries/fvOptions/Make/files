@@ -1,0 +1,6 @@
+surfMeanVelocityForce/surfMeanVelocityForce.C
+surfMeanVelocityForce/surfMeanVelocityForceIO.C
+
+LIB = $(HPFOAM_LIBBIN)/libhyporheicFvOptions
+
+

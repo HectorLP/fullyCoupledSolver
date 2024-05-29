@@ -1,0 +1,2 @@
+
+LIB = $(HPFOAM_LIBBIN)/libhyporheicFunctionObjects

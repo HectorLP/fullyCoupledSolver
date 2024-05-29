@@ -1,0 +1,63 @@
+EXE_INC = \
+    -I./surfaceflow \
+    -I./subsurfaceflow \
+    -I./VoF \
+    -I$(LIB_SRC)/TurbulenceModels/turbulenceModels/lnInclude \
+    -I$(LIB_SRC)/TurbulenceModels/incompressible/lnInclude \
+    -I$(LIB_SRC)/transportModels \
+    -I$(LIB_SRC)/transportModels/incompressible/singlePhaseTransportModel \
+    -I../../libraries/thermophysicalModels/specie/lnInclude \
+    -I../../libraries/thermophysicalModels/reactionThermo/lnInclude \
+    -I../../libraries/thermophysicalModels/basic/lnInclude \
+    -I../../libraries/thermophysicalModels/chemistryModel/lnInclude \
+    -I../../libraries/fvOptions/lnInclude \
+    -I../../libraries/reactionModels/lnInclude \
+    -I../../libraries/thermophysicalModels/mixtureThermo/lnInclude \
+    -I$(LIB_SRC)/ODE/lnInclude \
+    -I$(LIB_SRC)/fvOptions/lnInclude \
+    -I$(LIB_SRC)/sampling/lnInclude \
+    -I$(LIB_SRC)/transportModels/twoPhaseMixture/lnInclude \
+    -I$(LIB_SRC)/transportModels \
+    -I$(LIB_SRC)/transportModels/incompressible/lnInclude \
+    -I$(LIB_SRC)/transportModels/interfaceProperties/lnInclude \
+    -I$(LIB_SRC)/TurbulenceModels/turbulenceModels/lnInclude \
+    -I$(LIB_SRC)/TurbulenceModels/incompressible/lnInclude \
+    -I$(LIB_SRC)/transportModels/immiscibleIncompressibleTwoPhaseMixture/lnInclude \
+    -I$(LIB_SRC)/transportModels/incompressible/singlePhaseTransportModel \
+    -I../../libraries/derivedFvPatches/lnInclude \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/meshTools/lnInclude \
+    -I../../libraries/porousFlowReactiveTransportModels/lnInclude \
+    -I../../libraries/porousBoundaryConditions/lnInclude \
+    -I../../libraries/toolsGIS/lnInclude \
+	-I../../libraries/reactionModule \
+	-I../../libraries/reactionModule/PhreeqcModule \
+	-I../../ThirdParty/PhreeqcRM/src 
+    
+EXE_LIBS = \
+    -L$(HPFOAM_LIBBIN) -lhyporheicFoam\
+    -L$(HPFOAM_LIBBIN) -lfieldFunctionObjects\
+    -lfiniteVolume \
+	-lturbulenceModels \
+    -lincompressibleTurbulenceModels \
+    -lincompressibleTransportModels \
+    -lmeshTools \
+    -lfvOptions \
+    -lsampling \
+    -lODE \
+    -lpthread \
+    -limmiscibleIncompressibleTwoPhaseMixture \
+    -L$(HPFOAM_LIBBIN) -lporousBoundaryConditions \
+    -L$(HPFOAM_LIBBIN) -ltoolsGIS \
+    -L$(HPFOAM_LIBBIN) -lrt_reactionThermophysicalModels \
+    -L$(HPFOAM_LIBBIN) -lrt_specie \
+    -L$(HPFOAM_LIBBIN) -lrt_fluidThermophysicalModels \
+    -L$(HPFOAM_LIBBIN) -lrt_chemistryModel \
+    -L$(HPFOAM_LIBBIN) -lrt_reactionModels \
+    -L$(HPFOAM_LIBBIN) -lmixtureThermo \
+    -L$(HPFOAM_LIBBIN) \
+    -lporousFlowReactiveTransportModels \
+	-L$(HPFOAM_LIBBIN) -lreactionModule \
+    -L/home/vaderskywalker/OpenFOAM/hyporheicZoneFoam/ThirdParty/PhreeqcRM/lib -lPhreeqcRM
+ 
+

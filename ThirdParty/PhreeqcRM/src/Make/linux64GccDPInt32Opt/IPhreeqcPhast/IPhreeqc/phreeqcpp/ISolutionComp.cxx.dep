@@ -1,0 +1,22 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/ISolutionComp.cxx.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ISolutionComp.cxx \
+lnInclude/Utils.h \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ISolutionComp.h \
+lnInclude/Parser.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Solution.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SolutionIsotope.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NameDouble.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ISolution.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/global_structures.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Surface.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SurfaceComp.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SurfaceCharge.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NA.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/phqalloc.h \
+
+

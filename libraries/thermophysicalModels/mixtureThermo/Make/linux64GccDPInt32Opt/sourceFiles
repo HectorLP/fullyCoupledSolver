@@ -1,0 +1,6 @@
+SOURCE = \
+mixture/basicMultiComponentMixture/basicMultiComponentMixture.C \
+mixture/inertMultiComponentMixture/inertMultiComponentMixture.C \
+mixture/basicTwoPhaseMultiComponentTransportMixture/basicTwoPhaseMultiComponentTransportMixture.C \
+mixture/basicTwoPhaseMultiComponentTransportMixture/basicTwoPhaseMultiComponentTransportMixtures.C \
+mixture//basicTwoPhaseMultiComponentTransportMixture/newTwoPhaseMultiComponentTransportMixture.C 

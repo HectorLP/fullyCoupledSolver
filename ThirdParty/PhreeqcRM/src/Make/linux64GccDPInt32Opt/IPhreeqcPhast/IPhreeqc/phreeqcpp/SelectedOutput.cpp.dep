@@ -1,0 +1,7 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/SelectedOutput.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SelectedOutput.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SelectedOutput.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.h \
+lnInclude/PHRQ_base.h \
+
+

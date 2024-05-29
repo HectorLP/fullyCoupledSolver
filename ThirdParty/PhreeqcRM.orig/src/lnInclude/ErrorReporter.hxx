@@ -1,0 +1,1 @@
+../IPhreeqcPhast/IPhreeqc/ErrorReporter.hxx

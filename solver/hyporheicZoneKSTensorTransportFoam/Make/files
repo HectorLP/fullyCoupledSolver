@@ -1,0 +1,3 @@
+hyporheicZoneKSTensorTransportFoam.C  
+
+EXE = $(HPFOAM_APPBIN)/hyporheicZoneKSTensorTransportFoam

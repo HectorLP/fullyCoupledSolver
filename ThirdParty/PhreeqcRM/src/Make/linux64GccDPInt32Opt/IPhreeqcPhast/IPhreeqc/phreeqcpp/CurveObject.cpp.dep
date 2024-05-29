@@ -1,0 +1,6 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/CurveObject.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/CurveObject.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/CurveObject.h \
+lnInclude/phrqtype.h \
+
+

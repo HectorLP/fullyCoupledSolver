@@ -1,0 +1,8 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/IPhreeqc_interface_F.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/IPhreeqc_interface_F.cpp \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/IPhreeqc.h \
+IPhreeqcPhast/IPhreeqc/Var.h \
+IPhreeqcPhast/IPhreeqc/IPhreeqc_interface_F.h \
+
+

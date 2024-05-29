@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "phreeqcModule.C": "cpp",
+        "reactionModule.C": "cpp"
+    }
+}

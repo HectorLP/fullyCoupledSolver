@@ -1,0 +1,8 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/CSelectedOutput.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/CSelectedOutput.cpp \
+IPhreeqcPhast/IPhreeqc/Debug.h \
+IPhreeqcPhast/IPhreeqc/CSelectedOutput.hxx \
+IPhreeqcPhast/IPhreeqc/CVar.hxx \
+IPhreeqcPhast/IPhreeqc/Var.h \
+
+

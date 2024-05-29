@@ -1,0 +1,4 @@
+reactionAlquimia.C
+
+LIB = $(HPFOAM_LIBBIN)/libreactionAlquimia
+

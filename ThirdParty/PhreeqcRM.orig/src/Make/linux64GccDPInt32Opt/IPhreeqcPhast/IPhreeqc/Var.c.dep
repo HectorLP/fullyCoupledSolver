@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/Var.c.dep: \
+IPhreeqcPhast/IPhreeqc/Var.c \
+IPhreeqcPhast/IPhreeqc/Var.h \
+
+

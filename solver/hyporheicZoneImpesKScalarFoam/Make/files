@@ -1,0 +1,3 @@
+hyporheicZoneImpesKScalarFoam.C 
+
+EXE = $(HPFOAM_APPBIN)/hyporheicZoneImpesKScalarFoam

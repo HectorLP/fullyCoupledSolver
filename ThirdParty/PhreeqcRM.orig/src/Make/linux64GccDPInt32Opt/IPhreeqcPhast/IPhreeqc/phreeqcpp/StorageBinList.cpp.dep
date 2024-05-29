@@ -1,0 +1,9 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/StorageBinList.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/StorageBinList.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/StorageBinList.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Parser.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+
+

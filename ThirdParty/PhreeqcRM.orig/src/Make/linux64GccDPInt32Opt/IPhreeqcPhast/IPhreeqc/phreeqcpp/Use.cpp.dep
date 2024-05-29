@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/Use.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Use.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Use.h \
+
+

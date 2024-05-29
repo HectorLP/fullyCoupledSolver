@@ -1,0 +1,10 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/common/Parser.cxx.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/common/Parser.cxx \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/common/Utils.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/common/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/common/Parser.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/common/PHRQ_base.h \
+lnInclude/Keywords.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/common/PHRQ_io.h \
+
+

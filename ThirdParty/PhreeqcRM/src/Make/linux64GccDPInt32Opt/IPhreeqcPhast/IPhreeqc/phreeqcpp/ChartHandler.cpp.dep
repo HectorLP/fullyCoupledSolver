@@ -1,0 +1,13 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/ChartHandler.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ChartHandler.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ChartHandler.h \
+lnInclude/Parser.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ChartObject.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/CurveObject.h \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.h \
+
+

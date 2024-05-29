@@ -1,0 +1,23 @@
+EXE_INC = \
+    -I.. \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/thermophysicalModels/specie/lnInclude \
+    -I$(LIB_SRC)/meshTools/lnInclude \
+    -I$(LIB_SRC)/sampling/lnInclude \
+    -I$(HOME)/GitRepository/alquimia-dev/alquimia  \
+    -I$(HOME)/GitRepository/alquimia-dev   \
+    -I$(HOME)/GitRepository/alquimia-dev/build  \
+    -I$(PETSC_DIR)/include  \
+    -I${PETSC_DIR}/${PETSC_ARCH}/include \
+    -I$(MPI_LIB_PATH)
+
+LIB_LIBS = \
+    -L${HOME}/GitRepository/alquimia-dev/build/alquimia \
+    -lalquimia  \
+    -L${PETSC_LIBBIN} \
+    -lpetsc \
+    -lspecie \
+    -lfiniteVolume \
+    -lfvOptions \
+    -lmeshTools \
+    -lsampling

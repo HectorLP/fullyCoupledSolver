@@ -1,0 +1,1 @@
+../IPhreeqcPhast/IPhreeqc/phreeqcpp/SScomp.cxx

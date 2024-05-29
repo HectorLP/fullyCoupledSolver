@@ -1,0 +1,15 @@
+EXE_INC = \
+    -I../boundaryConditions/lnInclude \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/thermophysicalModels/specie/lnInclude \
+	-I../../ThirdParty/PhreeqcRM/src
+    #-I$(HPFOAM_DIR)/ThirdParty/PhreeqcRM/src
+
+LIB_LIBS = \
+-L$(HPFOAM_LIBBIN) \
+-lboundaryConditions \
+-lfiniteVolume \
+-lspecie \
+-L/home/vaderskywalker/OpenFOAM/hyporheicZoneFoam/ThirdParty/PhreeqcRM/lib -lPhreeqcRM
+
+

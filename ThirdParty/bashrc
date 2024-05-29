@@ -1,0 +1,7 @@
+# .bashrc
+
+#PhreeqcRM
+source $HPFOAM_DIR/ThirdParty/PhreeqcRM/bashrc
+
+
+

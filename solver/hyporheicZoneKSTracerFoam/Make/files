@@ -1,0 +1,3 @@
+hyporheicZoneKSTracerFoam.C  
+
+EXE = $(HPFOAM_APPBIN)/hyporheicZoneKSTracerFoam

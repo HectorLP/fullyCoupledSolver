@@ -1,0 +1,13 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/runner.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/runner.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/runner.h \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/StorageBinList.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Parser.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NA.h \
+lnInclude/Utils.h \
+
+

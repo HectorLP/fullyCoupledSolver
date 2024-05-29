@@ -1,0 +1,7 @@
+mixtures/basicMultiComponentMixture/basicMultiComponentMixture.C
+mixtures/solutionSurfaceMultiComponentMixture/solutionSurfaceMultiComponentMixture.C
+
+derivedTransportFvPatch/globalConcentrationMixed/globalConcentrationMixedFvPatchScalarField.C
+derivedTransportFvPatch/reactingWall/reactingWallFvPatchScalarField.C
+
+LIB = $(HPFOAM_LIBBIN)/libtwophaseSurfaceTransportPatch

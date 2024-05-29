@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hyporheicZoneFoam.C": "cpp",
+        "hyporheicZoneImpesFoam.C": "cpp",
+        "hyporheicZoneImpesKScalarFoam.C": "cpp"
+    }
+}

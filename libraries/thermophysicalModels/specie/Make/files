@@ -1,0 +1,4 @@
+specie/specie.C
+reaction/reactions/makeReactions.C
+
+LIB = $(HPFOAM_LIBBIN)/librt_specie

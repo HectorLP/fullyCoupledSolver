@@ -1,0 +1,10 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/dumper.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/dumper.cpp \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/dumper.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/StorageBinList.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Parser.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+
+

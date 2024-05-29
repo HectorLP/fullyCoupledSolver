@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "phreeqcRMModels.H": "cpp",
+        "phreeqcRMModels.C": "cpp",
+        "porousReactionsModels.C": "cpp",
+        "basicPorousReactionsModelsNew.C": "cpp",
+        "basicPorousReactionsModels.C": "cpp"
+    }
+}

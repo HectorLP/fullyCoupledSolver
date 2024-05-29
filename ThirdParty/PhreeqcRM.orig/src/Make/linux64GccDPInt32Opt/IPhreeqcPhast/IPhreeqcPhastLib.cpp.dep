@@ -1,0 +1,18 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqcPhastLib.cpp.dep: \
+IPhreeqcPhast/IPhreeqcPhastLib.cpp \
+lnInclude/IPhreeqc.h \
+lnInclude/Var.h \
+lnInclude/IPhreeqc.hpp \
+lnInclude/IPhreeqcCallbacks.h \
+lnInclude/PHRQ_io.h \
+lnInclude/Keywords.h \
+IPhreeqcPhast/IPhreeqcPhast.h \
+lnInclude/PHRQ_base.h \
+lnInclude/StorageBin.h \
+lnInclude/System.h \
+lnInclude/NameDouble.h \
+lnInclude/Parser.h \
+lnInclude/phrqtype.h \
+IPhreeqcPhast/IPhreeqcPhastLib.h \
+
+

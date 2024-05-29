@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "basicPorousReactionsModels.C": "cpp",
+        "basicPorousReactionsModels.H": "cpp",
+        "basicPorousReactionsModelsNew.C": "cpp",
+        "porousSinglePhaseTransportModels.C": "cpp",
+        "porousReactionsModels.C": "cpp",
+        "phreeqcRMModels.C": "cpp",
+        "taylorArisTensor.C": "cpp",
+        "dispersionTensorModel.C": "cpp",
+        "dispersionModel.C": "cpp",
+        "dispersionModel.H": "cpp",
+        "dispersionModelNew.C": "cpp",
+        "alphaDispersion.H": "cpp",
+        "alphaDispersion.C": "cpp",
+        "dispersionModels.C": "cpp",
+        "dispersionModels.H": "cpp"
+    }
+}

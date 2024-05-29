@@ -1,0 +1,37 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/phreeqcpp/Pressure.cxx.dep: \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Pressure.cxx \
+lnInclude/Utils.h \
+lnInclude/phrqtype.h \
+lnInclude/Parser.h \
+lnInclude/PHRQ_base.h \
+lnInclude/Keywords.h \
+lnInclude/PHRQ_io.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Phreeqc.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/cvdense.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/cvode.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/sundialstypes.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/nvector.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/dense.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/smalldense.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/runner.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/StorageBinList.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/dumper.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SelectedOutput.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NumKeyword.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/UserPunch.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ChartHandler.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/ChartObject.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/CurveObject.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Pressure.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/cxxMix.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Use.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/Surface.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SurfaceComp.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NameDouble.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/SurfaceCharge.h \
+lnInclude/thread.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/global_structures.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/NA.h \
+IPhreeqcPhast/IPhreeqc/phreeqcpp/phqalloc.h \
+
+

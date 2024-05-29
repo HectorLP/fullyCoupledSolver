@@ -1,0 +1,16 @@
+EXE_INC = \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/meshTools/lnInclude  \
+    -I$(LIB_SRC)/thermophysicalModels/specie/lnInclude \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src/IPhreeqcPhast \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src/IPhreeqcPhast/ \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src/IPhreeqcPhast/IPhreeqc \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src/IPhreeqcPhast/IPhreeqc/phreeqcpp \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src/IPhreeqcPhast/IPhreeqc/phreeqcpp/common \
+    -I/home/vaderskywalker/Softwares/phreeqcrm/src/IPhreeqcPhast/IPhreeqc/phreeqcpp/PhreeqcKeywords
+
+LIB_LIBS = \
+    -lfiniteVolume \
+    -lspecie \
+    -L/home/vaderskywalker/Softwares/phreeqcrm/lib -lphreeqcrm-3.7.3

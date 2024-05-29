@@ -1,0 +1,18 @@
+EXE_INC = \
+    -I../boundaryConditions/lnInclude \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/thermophysicalModels/specie/lnInclude \
+    -I$(HPFOAM_DIR)/ThirdParty/PhreeqcRM/src \
+	-I/home/vaderskywalker/Softwares/phreeqcrm-3.7.3/src
+
+LIB_LIBS = \
+-L$(HPFOAM_LIBBIN) \
+-lboundaryConditions \
+-lfiniteVolume \
+-lspecie \
+-L$(PHREEQCRM_LIBBIN) \
+-lPhreeqcRM \
+-L/home/vaderskywalker/Softwares/phreeqcrm-3.7.3/lib -lphreeqcrm-3.7.3
+
+
+

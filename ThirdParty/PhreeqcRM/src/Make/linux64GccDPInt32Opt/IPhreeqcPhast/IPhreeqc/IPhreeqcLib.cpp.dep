@@ -1,0 +1,11 @@
+$(OBJECTS_DIR)/IPhreeqcPhast/IPhreeqc/IPhreeqcLib.cpp.dep: \
+IPhreeqcPhast/IPhreeqc/IPhreeqcLib.cpp \
+IPhreeqcPhast/IPhreeqc/IPhreeqc.h \
+IPhreeqcPhast/IPhreeqc/Var.h \
+IPhreeqcPhast/IPhreeqc/IPhreeqc.hpp \
+IPhreeqcPhast/IPhreeqc/IPhreeqcCallbacks.h \
+lnInclude/PHRQ_io.h \
+lnInclude/Keywords.h \
+IPhreeqcPhast/IPhreeqc/thread.h \
+
+

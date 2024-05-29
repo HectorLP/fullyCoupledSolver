@@ -1,0 +1,4 @@
+customLibrary.C
+
+LIB = $(HPFOAM_LIBBIN)/libcustomlibrary
+

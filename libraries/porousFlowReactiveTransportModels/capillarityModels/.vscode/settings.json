@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "capillarityModelNew.C": "cpp",
+        "capillarityModel.C": "cpp",
+        "pcBrooksAndCorey.C": "cpp"
+    }
+}

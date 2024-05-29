@@ -1,0 +1,1 @@
+../relativePermeabilityModels/Ippisch/krIppisch.H
