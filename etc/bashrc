@@ -1,0 +1,42 @@
+#.bashrc
+
+#Change the directory of libraries and solvers to the local drive
+FOAM_USER_LIBBIN=/media/vaderskywalker/HDD/OpenFOAM/OpenFOAM-5.x/platforms/linux64GccDPInt64Opt/lib
+
+
+HPFOAM_DIR=$HOME/OpenFOAM/hyporheicZoneFoam
+HPFOAM_APPBIN=$HPFOAM_DIR/bin
+HPFOAM_LIBBIN=$HPFOAM_DIR/lib 
+
+#Alquimia library path 
+#ALQUIMIA_LIBBIN=$HOME/GitRepository/alquimia-dev/build/alquimia
+
+#PETSC's library path
+#PETSC_LIBBIN=$HOME/GitRepository/petsc/gnu-c-opt/lib 
+
+#MPI library path
+MPI_LIB_PATH=$HOME/Softwares/openmpi-4.1.2/ompi/include 
+MPI_LIBBIN=$HOME/Softwares/openmpi-4.1.2/lib
+#PHREEQCLIBBIN=$HOME/Softwares/phreeqcrm/lib
+
+export FOAM_USER_LIBBIN
+
+export HPFOAM_DIR
+export HPFOAM_APPBIN
+export HPFOAM_LIBBIN
+
+#export ALQUIMIA_LIBBIN
+#export PETSC_LIBBIN
+
+export MPI_LIB_PATH
+export MPI_LIBBIN
+#export PHREEQCLIBBIN
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$FOAM_USER_LIBBIN
+#export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PHREEQCLIBBIN
+
+export PATH=$PATH:$HPFOAM_APPBIN
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HPFOAM_LIBBIN
+#export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$ALQUIMIA_LIBBIN
+#export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PETSC_LIBBIN
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$MPI_LIBBIN
